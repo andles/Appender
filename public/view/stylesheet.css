@@ -1,0 +1,8 @@
+.login-container {
+	width: 90%;
+	position: relative;
+}
+
+.login-button {
+	float: right;
+}
